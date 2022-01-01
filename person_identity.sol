@@ -1,4 +1,4 @@
-pragma solidity ^0.4.24;  //specifies the version of solidity used.
+pragma solidity ^0.4.24;  //specifies the supported versions of solidity.
 
 contract person_identity
 {
